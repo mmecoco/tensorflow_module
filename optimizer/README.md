@@ -1,0 +1,1 @@
+Dans cette dossier, on doit creer des classes qui héritent de la classe Optimizer qui vont prendre la forme d'un optimisateur
